@@ -1,0 +1,6 @@
+{
+  "name": "Evidencia GA3-240202501-AA1-EV01. Cuestionario",
+  "description": "Interactive English Practice – Preparation Questionnaire and 90-question pedagogical study bank for SENA apprentices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
